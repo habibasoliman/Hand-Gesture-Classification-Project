@@ -1,0 +1,6 @@
+artifact_location: file:///c:/Users/habib/Hand-Gesture-Classification-Project/mlruns/100095970004866356
+creation_time: 1748729124642
+experiment_id: '100095970004866356'
+last_update_time: 1748729124642
+lifecycle_stage: active
+name: XGBoost Hand Gesture Tuning

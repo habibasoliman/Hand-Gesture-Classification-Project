@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/habib/Hand-Gesture-Classification-Project/mlruns/100095970004866356/320d8c4484ff48619b593111f6b87989/artifacts
+end_time: 1748729125061
+entry_point_name: ''
+experiment_id: '100095970004866356'
+lifecycle_stage: active
+run_id: 320d8c4484ff48619b593111f6b87989
+run_name: GridSearchCV tuning
+run_uuid: 320d8c4484ff48619b593111f6b87989
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748729124966
+status: 4
+tags: []
+user_id: habib
